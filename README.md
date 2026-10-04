@@ -1,11 +1,20 @@
 # ZERO TO SOC
 
-### A Budget-Friendly Roadmap to Your First Cyber Security Job
+<p align="center">
+  <img src="./COVER.svg" alt="ZERO TO SOC book cover" width="320">
+</p>
 
-**LEARN. DETECT. DEFEND.**
+<p align="center">
+  <strong>A Budget-Friendly Roadmap to Your First Cyber Security Job</strong><br>
+  <em>LEARN. DETECT. DEFEND.</em>
+</p>
 
-**Author:** Suraj Wagh  
-**Edition:** First Edition, 2026
+<p align="center">
+  <a href="./Zero_to_SOC_Book.pdf"><img src="https://img.shields.io/badge/Book-PDF-red?style=flat-square" alt="Book PDF"></a>
+  <img src="https://img.shields.io/badge/Edition-First%20Edition%202026-blue?style=flat-square" alt="First Edition 2026">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-Custom%20Book%20License-orange?style=flat-square" alt="Custom Book License"></a>
+  <a href="./SHARING.md"><img src="https://img.shields.io/badge/Sharing-Free%20with%20Attribution-green?style=flat-square" alt="Free with attribution"></a>
+</p>
 
 ---
 
@@ -23,32 +32,52 @@ It emphasizes learning the fundamentals, practicing in hands-on environments, do
 
 ---
 
-## 🧭 What's Inside
+## 📚 Table of Contents
 
-The book covers:
+### Getting Started
+- A Message from the Author
+- About the Author
+- Preface
+- How to Use This Book
+- Getting Started
 
-- Cyber security fundamentals and SOC concepts
-- Networking fundamentals
-- Windows and Linux fundamentals
-- Security fundamentals
-- Logs and SIEM
-- SOC alert triage and incident response
-- Phishing investigation
-- Threat intelligence
-- MITRE ATT&CK
-- Wireshark
-- Home lab setup and practice
-- CTFs and hands-on exercises
-- Investigation reports
-- A 16-week study plan
-- Cyber security certifications
-- Resume and LinkedIn preparation
-- Technical and HR interview preparation
-- Job hunting and getting your first cyber security role
-- Your first 90 days
-- Cyber security career paths and ethics
-- Cheat sheets and checklists
-- Resources, quiz answers, glossary, and index
+### Part I — Cyber Security Foundations
+- **Chapter 1:** Introduction to Cyber Security
+- **Chapter 2:** What Is a Security Operations Center?
+
+### Part II — Technical Foundations
+- **Chapter 3:** Networking Essentials
+- **Chapter 4:** Operating Systems: Linux and Windows
+- **Chapter 5:** Security Fundamentals
+
+### Part III — Core SOC Skills
+- **Chapter 6:** Logs and SIEM
+- **Chapter 7:** Alert Triage and Incident Response
+- **Chapter 8:** Phishing Analysis
+- **Chapter 9:** Threat Intelligence, MITRE ATT&CK and the Kill Chain
+- **Chapter 10:** Network Analysis with Wireshark
+
+### Part IV — Hands-On Practice
+- **Chapter 11:** Building Your Home Lab
+- **Chapter 12:** Practice Platforms and CTFs
+- **Chapter 13:** Writing Investigation Reports
+
+### Part V — Your Career
+- **Chapter 14:** The 16-Week Study Plan
+- **Chapter 15:** Certifications
+- **Chapter 16:** Resume, LinkedIn and Interviews
+- **Chapter 17:** Job Hunt and Your First 90 Days
+- **Chapter 18:** Career Paths and Professional Ethics
+
+### Appendices & Reference
+- **Appendix A:** Cheat Sheets
+- **Appendix B:** Resource Directory
+- **Appendix C:** Checklists
+- References and Citations
+- Quiz Answer Key
+- Glossary
+- Index
+- A Message to Readers
 
 ---
 
@@ -67,19 +96,15 @@ This book is especially useful for:
 ## 🗺️ Suggested Learning Paths
 
 ### 🟢 Starting from Zero
-
 Begin with the early chapters and build your foundation step by step.
 
 ### 🔵 IT / Networking Background
-
-If you already understand IT and networking fundamentals, you can skim the introductory material and focus more on SOC concepts and practical investigation.
+If you already understand IT and networking fundamentals, skim the introductory material and focus more on SOC concepts and practical investigation.
 
 ### 🟠 SOC Theory Already Covered
-
 Move toward the practical lab and investigation sections to turn theory into hands-on experience.
 
 ### 🟣 Preparing for Jobs
-
 Use the sections covering certifications, resume/LinkedIn preparation, interviews, job hunting, and the first 90 days.
 
 ---
@@ -108,27 +133,36 @@ The goal is not only to learn concepts, but to **practice, document, and demonst
 
 ## 📚 Book Information
 
-**Title:** ZERO TO SOC  
-**Subtitle:** A Budget-Friendly Roadmap to Your First Cyber Security Job  
-**Tagline:** LEARN. DETECT. DEFEND.  
-**Author:** Suraj Wagh  
-**Edition:** First Edition  
-**Year:** 2026
+| Item | Details |
+|---|---|
+| Title | **ZERO TO SOC** |
+| Subtitle | A Budget-Friendly Roadmap to Your First Cyber Security Job |
+| Tagline | **LEARN. DETECT. DEFEND.** |
+| Author | **Suraj Wagh** |
+| Edition | First Edition |
+| Year | 2026 |
 
 ---
 
-## 📜 Sharing & Usage
+## 📜 License & Sharing
 
-This book is intended to be freely shareable in its **complete and unmodified form**, with credit to the author.
+This repository uses a **custom book-sharing license**, not a standard open-source software license.
 
-Please do not:
+You may freely share the **complete and unmodified book** with credit to Suraj Wagh.
+
+You may not:
 
 - Sell or rent the book
-- Modify or rebrand the book
-- Include it in a paid course without permission
+- Modify or rebrand it
+- Present it as your own work
+- Include it in a paid course or paid training package without permission
 - Republish substantial portions without permission
 
-For the complete terms, please refer to the copyright and sharing information inside the book.
+See **[LICENSE](./LICENSE)** for the complete terms and **[SHARING.md](./SHARING.md)** for a reader-friendly summary.
+
+### Security and lab safety
+
+Hands-on security activities in the book are intended for systems you own, isolated labs, or platforms where you have explicit permission to test. Follow applicable laws and platform rules.
 
 ---
 
@@ -148,9 +182,14 @@ If you find **ZERO TO SOC** useful:
 ```
 zero-to-soc/
 ├── README.md
-└── Zero_to_SOC_Book.pdf
+├── COVER.svg
+├── Zero_to_SOC_Book.pdf
+├── LICENSE
+└── SHARING.md
 ```
 
 ---
 
-**ZERO TO SOC — LEARN. DETECT. DEFEND.**
+<p align="center">
+  <strong>ZERO TO SOC — LEARN. DETECT. DEFEND.</strong>
+</p>
